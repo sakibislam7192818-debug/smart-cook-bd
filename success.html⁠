@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>অর্ডার সফল হয়েছে - SmartCook BD</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; padding: 50px 20px; background: #f4f7f6; color: #333; }
+        .card { background: white; max-width: 500px; margin: 0 auto; padding: 30px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        .icon { font-size: 50px; color: #28a745; margin-bottom: 10px; }
+        h1 { color: #28a745; font-size: 24px; margin-bottom: 10px; }
+        p { color: #555; font-size: 16px; line-height: 1.5; }
+        .btn { display: inline-block; margin-top: 20px; padding: 12px 25px; background: #d9534f; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="icon">✔</div>
+        <h1>ধন্যবাদ! আপনার অর্ডারটি সফল হয়েছে।</h1>
+        <p>আমাদের প্রতিনিধি খুব শীঘ্রই কল করে আপনার অর্ডারটি কনফার্ম করবেন।</p>
+        <a href="index.html" class="btn">মূল পেজে ফিরে যান</a>
+    </div>
+</body>
+</html>
