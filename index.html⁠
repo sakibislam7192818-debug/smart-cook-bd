@@ -157,7 +157,7 @@
 
     <div class="order-form">
         <h2>অর্ডার করতে নিচের ফর্মটি পূরণ করুন</h2>
-        <form onsubmit="event.preventDefault(); window.location.href='success.html';">
+        <form onsubmit="event.preventDefault(); alert('ধন্যবাদ! আপনার অর্ডারটি সফলভাবে গ্রহণ করা হয়েছে। আমাদের প্রতিনিধি খুব শীঘ্রই আপনার সাথে যোগাযোগ করবেন।');">
             <div class="form-group">
                 <label for="name">আপনার নাম *</label>
                 <input type="text" id="name" name="name" placeholder="আপনার পূর্ণ নাম লিখুন" required>
